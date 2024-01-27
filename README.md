@@ -24,6 +24,8 @@
 <a href="https://auth.geeksforgeeks.org/user/gaurav46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurav46" height="30" width="40" /></a>
 </p>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <h3>💻 Technology Stack</h3>
 <p >
 <a href="https://www.cprogramming.com/" target="_blank"
@@ -61,6 +63,8 @@
    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="100" width="100" />
 </p>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsahu46&show_icons=true&locale=en&layout=compact" alt="gsahu46" /></p>
 
