@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ac/5b/16/ac5b1609d86356d86f028b307f839fb7.gif" width="100%" height="300px" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hnZWFsZWZidTljNzk2bnZuYTA1N2lrbmZmbDM0aTZnOHVoa2w5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="300px" />
 
 <h1 align="center">Hi 👋, I'm Gaurav Sahu</h1>
 <h3 align="center">A dedicated Backend developer from India, driven by a passion for crafting innovative and high-quality software solutions.</h3>
