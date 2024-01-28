@@ -67,12 +67,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsahu46&show_icons=true&locale=en&layout=compact" alt="gsahu46" style="width: 48%;  height: 195px; max-width: 48%;  padding: 10px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsahu46&show_icons=true&locale=en" alt="gsahu46" style="width: 51%; height: 195px; padding: 10px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsahu46&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="gsahu46" style="width: 48%;  height: 195px; max-width: 48%; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gsahu46&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="gsahu46" style="width: 51%; height: 195px; padding: 10px; object-fit: cover;">
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsahu46&" alt="gsahu46" style="width: 95%; height: 200px" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsahu46&show_icons=true" alt="gsahu46" style="width: 95%; height: 200px" /></p>
 
 
 
