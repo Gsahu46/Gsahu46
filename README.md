@@ -1,16 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Gaurav Sahu</h1>
 <h3 align="center">A dedicated Backend developer from India, driven by a passion for crafting innovative and high-quality software solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsahu46&label=Profile%20views&color=0e75b6&style=flat" alt="gsahu46" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, ReactJS**
-
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I'm looking to collaborate on **open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gsahu46](https://github.com/Gsahu46)
 
-- 💬 Ask me about **.Net, NodeJS**
+- 💬 Ask me about **Java, SpringBoot**
 
 - 📫 How to reach me **gsahu171999@gmail.com**
 
@@ -26,6 +23,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <h3>💻 Technology Stack</h3>
 <p >
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/EcBBkOs1AWZHhVU7cu/giphy.gif" alt="java" width="100" height="100" /> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="springboot" width="100" height="100" /> </a>
 <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif"
       alt="c" width="100" height="100" /> </a> 
@@ -71,7 +70,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsahu46&show_icons=true" alt="gsahu46" style="width: 95%; height: 200px" /></p>
-
-
-
-
